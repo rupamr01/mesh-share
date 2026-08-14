@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.log
+.vscode/
+
+# C/C++ build outputs
+*.o
+*.so
+*.dll
+native/bin/*.so
+native/bin/*.dll
